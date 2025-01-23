@@ -90,4 +90,4 @@
   velero restore create --from-backup sipkd-backup
   ```
 
-Jika ada kendala spesifik, beri tahu saya! 😊
+😊
